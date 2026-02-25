@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-community
+langchain_huggingface
+langchain_google_genai
+langchain-classic
+dotenv
