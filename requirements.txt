@@ -5,3 +5,6 @@ langchain_huggingface
 langchain_google_genai
 langchain-classic
 dotenv
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+ddgs
